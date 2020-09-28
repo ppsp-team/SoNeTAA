@@ -1,6 +1,7 @@
 # Brain & Behavior Scripts
 
 Includes various scripts for EEG and Behavioral experiments.
+
 Originally developped for the platform [SoNeTAA (Social Neuroscience for Therapeutic Approaches in Autism)](https://github.com/GHFC/SoNeTAA).
 
 The repository includes:
